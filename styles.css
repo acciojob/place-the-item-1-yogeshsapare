@@ -1,2 +1,7 @@
 
 /* Your CSS Code here. */
+.content{
+    display: flex;
+    flex-direction: row;
+    align-items: space-between;
+}
